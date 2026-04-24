@@ -1,0 +1,15 @@
+{
+  "backupRoot": "%USERPROFILE%\\.ai-sync-backups",
+  "backupRetention": 3,
+  "codex": {
+    "path": "%USERPROFILE%\\.codex",
+    "repo": "git@github.com:yourname/codex-sync.git",
+    "branch": "main"
+  },
+  "claude": {
+    "path": "%USERPROFILE%\\.claude",
+    "repo": "git@github.com:yourname/claude-sync.git",
+    "branch": "main"
+  }
+}
+
